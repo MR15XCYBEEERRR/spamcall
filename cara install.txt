@@ -8,4 +8,8 @@ pkg install git
 
 pip install request
 
-git clone
+git clone https://github.com/MR15XCYBEEERRR/spamcall
+
+cd spamcall
+
+python spamcall.py
